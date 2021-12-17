@@ -18,3 +18,6 @@ function countDown(num) {
         console.log(num--);
     }
 }
+
+const hello = "Hello"
+//
